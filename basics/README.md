@@ -20,7 +20,7 @@ In this project I discovered and learned the basics of Shell through 17 tasks.
 ## **An explanation of how each script works**
 
 ### **Task 0**
-* Where I Am?
+* [Where I Am?](https://github.com/Aluranae/holbertonschool-shell/blob/main/basics/0-current_working_directory){#id .class1 .class2}
 
 While using the _pwd_ command the script prints the absolute path name of the current working directory.
 
