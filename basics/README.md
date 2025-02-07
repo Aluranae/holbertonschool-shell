@@ -20,12 +20,12 @@ In this project I discovered and learned the basics of Shell through 17 tasks.
 ## **An explanation of how each script works**
 
 ### **Task 0**
-* [Where I Am?](https://github.com/Aluranae/holbertonschool-shell/blob/main/basics/0-current_working_directory){#id .class1 .class2}
+* [Where I Am?](https://github.com/Aluranae/holbertonschool-shell/blob/main/basics/0-current_working_directory)
 
 While using the _pwd_ command the script prints the absolute path name of the current working directory.
 
 ### **Task 1**
-* What's in there?
+* [What's in there?](https://github.com/Aluranae/holbertonschool-shell/blob/main/basics/1-listit)
 
 With the the _ls_ command, the script display the contents list of the current directory.
 
