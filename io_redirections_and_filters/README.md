@@ -1,4 +1,4 @@
-# Shell, Permisssions
+# Shell, I/O Redirections and filters
 
 In this project I learned how permissions work in Shell through 16 tasks.
 
