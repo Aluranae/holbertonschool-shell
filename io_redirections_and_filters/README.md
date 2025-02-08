@@ -84,3 +84,12 @@ While using the _tail .._ command the script duplicates the last line of the fil
 * [No more javascript](https://github.com/Aluranae/holbertonschool-shell/blob/main/io_redirections_and_filters/10-no_more_js)
 
 While using the _find .._ command the script deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
+
+### **Task 11**
+* [Don't just count your directories, make your directories count](https://github.com/Aluranae/holbertonschool-shell/blob/main/io_redirections_and_filters/11-directories)
+
+While using the _find .._ command the script counts the number of directories and sub-directories in the current directory.
+
+* The current and parent directories should not be taken into account
+* Hidden directories should be counted
+
