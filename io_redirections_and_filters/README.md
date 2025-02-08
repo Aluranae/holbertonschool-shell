@@ -103,3 +103,11 @@ Requirements:
 * One file per line
 * Sorted from the newest to the oldest
 
+### **Task 13**
+* [Being unique is better than being perfect](https://github.com/Aluranae/holbertonschool-shell/blob/main/io_redirections_and_filters/13-unique)
+
+While using the _sort .._ command the script takes a list of words as input and prints only words that appear exactly once.
+
+* Input format: One line, one word
+* Output format: One line, one word
+* Words should be sorted
