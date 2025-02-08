@@ -127,3 +127,8 @@ While using the _grep .._ command the script display the number of lines that co
 
 While using the _grep .._ command the script display lines containing the pattern "root" and 3 lines after them in the file /etc/passwd.
 
+### **Task 17**
+* [I hate bins](https://github.com/Aluranae/holbertonschool-shell/blob/main/io_redirections_and_filters/17-hidethisword)
+
+While using the _grep .._ command the script display all the lines in the file /etc/passwd that do not contain the pattern "bin".
+
