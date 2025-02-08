@@ -115,5 +115,10 @@ While using the _sort .._ command the script takes a list of words as input and 
 ### **Task 14**
 * [It must be in that file](https://github.com/Aluranae/holbertonschool-shell/blob/main/io_redirections_and_filters/14-findthatword)
 
-While using the _grep_ command the script display lines containing the pattern "root" from the file /etc/passwd
+While using the _grep .._ command the script display lines containing the pattern "root" from the file /etc/passwd
+
+### **Task 15**
+* [Count that word](https://github.com/Aluranae/holbertonschool-shell/blob/main/io_redirections_and_filters/15-countthatword)
+
+While using the _grep .._ command the script display the number of lines that contain the pattern "bin" in the file /etc/passwd
 
