@@ -79,3 +79,8 @@ While using the _ls -la_ command the script writes into the file ls_cwd_content 
 While using the _tail .._ command the script duplicates the last line of the file iacta
 
 * The file iacta will be in the working directory
+
+### **Task 10**
+* [No more javascript](https://github.com/Aluranae/holbertonschool-shell/blob/main/io_redirections_and_filters/10-no_more_js)
+
+While using the _find .._ command the script deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
