@@ -122,3 +122,8 @@ While using the _grep .._ command the script display lines containing the patter
 
 While using the _grep .._ command the script display the number of lines that contain the pattern "bin" in the file /etc/passwd
 
+### **Task 16**
+* [What's next?](https://github.com/Aluranae/holbertonschool-shell/blob/main/io_redirections_and_filters/16-whatsnext)
+
+While using the _grep .._ command the script display lines containing the pattern "root" and 3 lines after them in the file /etc/passwd.
+
