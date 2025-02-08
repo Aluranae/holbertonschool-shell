@@ -93,3 +93,13 @@ While using the _find .._ command the script counts the number of directories an
 * The current and parent directories should not be taken into account
 * Hidden directories should be counted
 
+### **Task 12**
+* [What's new](https://github.com/Aluranae/holbertonschool-shell/blob/main/io_redirections_and_filters/12-newest_files)
+
+While using the _ls .._ command the script displays the 10 newest files in the current directory.
+
+Requirements:
+
+* One file per line
+* Sorted from the newest to the oldest
+
