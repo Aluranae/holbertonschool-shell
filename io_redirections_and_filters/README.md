@@ -62,3 +62,8 @@ The file iacta will be in the working directory
 * You’re not allowed to use sed
 
 _Note: The output will differ, depending on the content of the file iacta._
+
+### **Task 7**
+* [It is a good file that cuts iron without making a noise](https://github.com/Aluranae/holbertonschool-shell/blob/main/permissions/6-third_line)
+
+While using the _echo -e .._ command the script creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
