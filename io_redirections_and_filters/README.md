@@ -50,12 +50,12 @@ While using the _tail .._ command the script display the last 10 lines of /etc/p
 ### **Task 5**
 * [I'd prefer the first ones actually](https://github.com/Aluranae/holbertonschool-shell/blob/main/io_redirections_and_filters/5-firstlines)
 
-While using the _tail .._ command the script display the first 10 lines of /etc/passwd
+While using the _head .._ command the script display the first 10 lines of /etc/passwd
 
 ### **Task 6**
 * [Line #2](https://github.com/Aluranae/holbertonschool-shell/blob/main/io_redirections_and_filters/6-third_line)
 
-While using the _tail .._ command the script display the third line of the file iacta .
+While using the _head / tail .._ command the script display the third line of the file iacta .
 
 The file iacta will be in the working directory
 
