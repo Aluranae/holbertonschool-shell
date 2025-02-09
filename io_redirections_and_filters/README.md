@@ -1,6 +1,6 @@
 # Shell, I/O Redirections and filters
 
-In this project I learned how permissions work in Shell through 16 tasks.
+In this project I learned how I/O Redirections and filters work in Shell through 26 tasks.
 
 *However, here are the requirements that have been requested:*
 
