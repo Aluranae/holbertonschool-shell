@@ -199,7 +199,7 @@ While using the __ command the script decodes acrostics that use the first lette
 
 **Definition of acrostic:**
 
-_An acrostic is a poem (or other form of writing) in which the first letter (or syllable, or word) of each line (or paragraph, or other recurring feature in the text) spells out a word, message or the alphabet. The word comes from the French acrostiche from post-classical Latin acrostichis). As a form of constrained writing, an acrostic can be used as a mnemonic device to aid memory retrieval. <a href="https://intranet.hbtn.io/rltoken/Qhs5G5YkHPhDPTvAQi_ECA" target="_blank">Read more</a>_
+_An acrostic is a poem (or other form of writing) in which the first letter (or syllable, or word) of each line (or paragraph, or other recurring feature in the text) spells out a word, message or the alphabet. The word comes from the French acrostiche from post-classical Latin acrostichis). As a form of constrained writing, an acrostic can be used as a mnemonic device to aid memory retrieval. <a href="https://intranet.hbtn.io/rltoken/Qhs5G5YkHPhDPTvAQi_ECA" target="_blank">Read more</a> _
 
 ### **Task 26**
 * [The biggest fan](https://github.com/Aluranae/holbertonschool-shell/blob/main/io_redirections_and_filters/26-the_biggest_fan)
