@@ -8,4 +8,4 @@ This repository contains all the folders related to projects on the shell.
 
 * [Shell, I/O Redirections an filters](https://github.com/Aluranae/holbertonschool-shell/tree/main/io_redirections_and_filters)
 
-* [Shell, Init files, variables and expansions](https://github.com/Aluranae/holbertonschool-shell/tree/main/io_redirections_and_filters)
+* [Shell, Init files, variables and expansions](https://github.com/Aluranae/holbertonschool-shell/tree/main/Init files, variables and expansions)
