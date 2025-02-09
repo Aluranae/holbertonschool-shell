@@ -149,3 +149,8 @@ While using the _tr .._ command the script Replace all characters A and c from i
 
 While using the _tr .._ command the script removes all letters c and C from input.
 
+### **Task 21**
+* [esreveR](https://github.com/Aluranae/holbertonschool-shell/blob/main/io_redirections_and_filters/21-reverse)
+
+While using the _rv_ command the script that reverse its input.
+
