@@ -132,3 +132,10 @@ While using the _grep .._ command the script display lines containing the patter
 
 While using the _grep .._ command the script display all the lines in the file /etc/passwd that do not contain the pattern "bin".
 
+### **Task 18**
+* [Letters only please](https://github.com/Aluranae/holbertonschool-shell/blob/main/io_redirections_and_filters/18-letteronly)
+
+While using the _grep .._ command the script display all lines of the file /etc/ssh/sshd_config starting with a letter.
+
+* include capital letters as well
+
