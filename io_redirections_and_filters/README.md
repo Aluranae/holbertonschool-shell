@@ -144,3 +144,8 @@ While using the _grep .._ command the script display all lines of the file /etc/
 
 While using the _tr .._ command the script Replace all characters A and c from input to Z and e respectively.
 
+### **Task 20**
+* [Without C, you would live in hiago](https://github.com/Aluranae/holbertonschool-shell/blob/main/io_redirections_and_filters/20-hiago)
+
+While using the _tr .._ command the script removes all letters c and C from input.
+
