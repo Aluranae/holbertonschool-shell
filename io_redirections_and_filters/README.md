@@ -154,3 +154,9 @@ While using the _tr .._ command the script removes all letters c and C from inpu
 
 While using the _rv_ command the script that reverse its input.
 
+### **Task 22**
+* [DJ Cut Killer](https://github.com/Aluranae/holbertonschool-shell/blob/main/io_redirections_and_filters/22-users_and_homes)
+
+While using the _cut_ command the script Write a script that displays all users and their home directories, sorted by users.
+
+* Based on the the /etc/passwd file
