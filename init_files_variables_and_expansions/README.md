@@ -22,7 +22,7 @@ In this project I learned how init files, variables and expansions work in Shell
 
 
 ### **Task 0**
-* [<o>](https://github.com/Aluranae/holbertonschool-shell/blob/main/io_redirections_and_filters/0-alias)
+* \[<o>](https://github.com/Aluranae/holbertonschool-shell/blob/main/io_redirections_and_filters/0-alias)
 
 While using the _echo .._ command the script that creates an alias.
 
