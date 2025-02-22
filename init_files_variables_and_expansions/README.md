@@ -92,7 +92,7 @@ While using the _echo .._ command the script dconverts a number from base 2 to b
 * The number in base 2 is stored in the environment variable BINARY
 * The script should display the number in base 10, followed by a new line
 
-### **Task 12*
+### **Task 12**
 * [Combination](https://github.com/Aluranae/holbertonschool-shell/tree/main/init_files_variables_and_expansions/12-combinations)
 
 While using the _echo .._ command the script prints all possible combinations of two letters, except oo.
@@ -117,6 +117,10 @@ While using the _printf .._ command the script converts a number from base 10 to
 * The number in base 10 is stored in the environment variable DECIMAL
 * The script should display the number in base 16, followed by a new line
 
+
+## Advanced Tasks
+
+
 ### **Task 15**
 * [What happens when you type ls *.c](https://github.com/Aluranae/holbertonschool-shell/tree/main/init_files_variables_and_expansions/18)
 
@@ -129,6 +133,9 @@ Write a blog post describing step by step what happens when you type ls *.c and 
 + Please, remember that these blogs must be written in English to further your technical ability in a variety of settings
 
 _**Remember, future employers will see your articles; take this seriously, and produce something that will be an asset to your future.**_
+
+* [Linkedin](https://www.linkedin.com/posts/benjamin-estrada-880b06297_this-article-is-the-result-of-one-of-the-activity-7294838079356358656-WI4x?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfjoWABQhDobpxQG_X41v8grgLc1NtVwLc)
+* [Medium]
 
 When done, please add all urls below (blog post, LinkedIn post, etc.)
 
