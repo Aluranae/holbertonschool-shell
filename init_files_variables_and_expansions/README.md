@@ -118,7 +118,9 @@ While using the _printf .._ command the script converts a number from base 10 to
 * The script should display the number in base 16, followed by a new line
 
 
+
 ## Advanced Tasks
+
 
 
 ### **Task 15**
